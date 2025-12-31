@@ -8,7 +8,7 @@
  <a href="https://wa.me/8801836349141" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23075E54.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Nure Anha Tamanna</h1>
+<h1 align="center">Hi, I'm Nure Anha Tamanna</h1>
 <h3 align="center">Frontend Developer | React | Tailwind CSS</h3>
 
 <p align="center">
@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  🚀 Frontend Developer focused on building responsive, user-friendly web applications.<br/>
-  💡 Strong in React, Tailwind CSS, and modern JavaScript.<br/>
-  🤝 Open to internships, junior roles, and collaborative projects.
+  Frontend Developer focused on building responsive, user-friendly web applications.<br/>
+  Strong in React, Tailwind CSS, and modern JavaScript.<br/>
+  Open to internships, junior roles, and collaborative projects.
 </p>
 
 
@@ -32,6 +32,22 @@
   <img src="https://github-readme-stats-ouuan.vercel.app/api?username=Nure-Anha&show_icons=true&theme=tokyonight" width="48%" />
 </p>
 
+
+<h3 align="left">Where to find me</h3>
+<p align="center">
+  <a href="https://www.facebook.com/handi.ercel.77" target="_blank">
+    <img src="./social.png" height="40" alt=""/>
+  </a>
+  <a href="https://www.linkedin.com/in/nure-anha-41892a1b8" target="_blank">
+    <img src="./linkedin (2).png" height="40" alt=""/>
+  </a>
+  <a href="https://wa.me/8801836349141" target="_blank">
+    <img src="./communication.png" height="40" alt=""/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img src="./gmail.png" height="40" alt=""/>
+  </a>
+</p>
 
 
 <details>
@@ -61,20 +77,3 @@
   </p>
 
 </details>
-
-
-<h3 align="left">Where to find me</h3>
-<p align="center">
-  <a href="https://www.facebook.com/handi.ercel.77" target="_blank">
-    <img src="./social.png" height="40" alt=""/>
-  </a>
-  <a href="https://www.linkedin.com/in/nure-anha-41892a1b8" target="_blank">
-    <img src="./linkedin (2).png" height="40" alt=""/>
-  </a>
-  <a href="https://wa.me/8801836349141" target="_blank">
-    <img src="./communication.png" height="40" alt=""/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img src="./gmail.png" height="40" alt=""/>
-  </a>
-</p>
