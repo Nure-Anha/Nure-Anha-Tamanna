@@ -54,3 +54,14 @@
 
 </details>
 
+
+
+<p align="right">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nure-Anha&show_icons=true&theme=dark"
+    width="45%"
+  />
+</p>
+
+
+
