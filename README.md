@@ -22,5 +22,5 @@
 
 <!-- Short intro -->
 <p align="center">
-  🚀 Passionate about building interactive web applications and learning new technologies. Always ready to contribute to open-source projects and collaborate on innovative ideas.
+  Passionate about building interactive web applications and learning new technologies. Always ready to contribute and collaborate on innovative ideas.
 </p>
