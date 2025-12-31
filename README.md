@@ -27,7 +27,7 @@
 </p>
 
 
-<h3 align="left">📊 Current Stats </h3>
+<h3 align="left">Current Stats </h3>
 <p align="center">
   <img src="https://github-readme-stats-ouuan.vercel.app/api?username=Nure-Anha&show_icons=true&theme=tokyonight" width="48%" />
 </p>
@@ -66,21 +66,15 @@
 <h3 align="left">Where to find me</h3>
 <p align="center">
   <a href="https://www.facebook.com/handi.ercel.77" target="_blank">
-    <img src="./social.png" height="40" alt="Facebook"/>
+    <img src="./social.png" height="40" alt=""/>
   </a>
   <a href="https://www.linkedin.com/in/nure-anha-41892a1b8" target="_blank">
-    <img src="./linkedin (2).png" height="40" alt="LinkedIn"/>
+    <img src="./linkedin (2).png" height="40" alt=""/>
   </a>
   <a href="https://wa.me/8801836349141" target="_blank">
-    <img src="./communication.png" height="40" alt="WhatsApp"/>
+    <img src="./communication.png" height="40" alt=""/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img src="./gmail.png" height="40" alt="Email"/>
+  <a href="mailto:https://mail.google.com/mail/u/0/#inbox">
+    <img src="./gmail.png" height="40" alt=""/>
   </a>
 </p>
-
-
-
-
-
-
