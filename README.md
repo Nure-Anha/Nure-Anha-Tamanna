@@ -74,7 +74,7 @@
   <a href="https://wa.me/8801836349141" target="_blank">
     <img src="./communication.png" height="40" alt=""/>
   </a>
-  <a href="mailto:https://mail.google.com/mail/u/0/#inbox">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="./gmail.png" height="40" alt=""/>
   </a>
 </p>
