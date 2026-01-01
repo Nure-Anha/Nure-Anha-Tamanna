@@ -96,12 +96,9 @@ I love learning new technologies, contributing to open-source projects, and coll
 
 
 
-<h3 align="left">🔥 GitHub Streak</h3>
-
+<h3 align="left">Streak Stats</h3>
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Nure-Anha&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nure-Anha&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
+
 
